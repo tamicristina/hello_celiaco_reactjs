@@ -4,18 +4,18 @@ import './menu.css'
 function Menu(){
   return(
   <>
-  <ul>
-    <li>
-      <Link to="/">Sobre</Link>
+  <ul className='menu'>
+    <li className='item'>
+      <Link className="link" to="/">Sobre</Link>
     </li>
-    <li>
-      <Link to="/contaminacao">Contaminação Cruzada</Link>
+    <li className='item'>
+      <Link className="link" to="/contaminacao">Contaminação Cruzada</Link>
     </li>
-    <li>
-      <Link to="/apoio">Rede de apoio</Link>
+    <li className='item'>
+      <Link className="link" to="/apoio">Rede de apoio</Link>
     </li>
-    <li>
-      <Link to="/alimentacao">Alimentação Segura</Link>
+    <li className='item'>
+      <Link className="link" to="/alimentacao">Alimentação Segura</Link>
     </li>
   </ul>
   </>)

@@ -1,0 +1,23 @@
+.menu {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+.item {
+  float: left;
+}
+
+.item .link {
+  font-size: 1.3em;
+  font-weight: 600;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: #03989e;
+  margin:0 73px;
+}
