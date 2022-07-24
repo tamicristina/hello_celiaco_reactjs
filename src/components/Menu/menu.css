@@ -21,3 +21,11 @@
   color: #03989e;
   margin:0 73px;
 }
+
+hr{
+  width: 85%;
+  margin: 0 auto;
+  height: 1px;
+  border: 0;
+  border-top: 2px solid #DDDEDD;
+}
