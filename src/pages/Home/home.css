@@ -5,6 +5,11 @@
   width: 100vw;
 }
 
+.home_section h1 {
+  color: #03989e;
+  text-align: inherit;
+  font-size: 26px;
+}
 .green_text {
   color: #03989e;
   font-weight: bold;
@@ -20,13 +25,7 @@
 .section_text {
   display: flex;
   flex-direction: column;
-  margin: 5% 0;
-}
-
-.section_text h1 {
-  color: #03989e;
-  text-align: inherit;
-  font-size: 26px;
+  margin: 5% 0 10%;
 }
 
 .section_text h2 {
@@ -34,6 +33,10 @@
   text-align: inherit;
   font-size: 24px;
   margin: 20px 0 0;
+}
+.section_text_boas_vindas{
+  margin: 5% 0;
+
 }
 
 .section_text p {
@@ -45,7 +48,7 @@
 .section_slider_container {
   width: 55vw;
   height: 42vh;
-  margin-bottom: 8%;
+  margin-bottom: 4%;
 }
 
 .section_slider_container h3 {

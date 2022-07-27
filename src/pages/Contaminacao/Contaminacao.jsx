@@ -23,11 +23,7 @@ function Contaminacao() {
             glúten vão aderir as batatas causando danos ao celíaco.
           </p>
         </div>
-        <div className="contaminacao_div_video">
-          
-        
-        
-        </div>
+        <div className="contaminacao_div_video"></div>
       </div>
     </section>
   );

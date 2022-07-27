@@ -7,18 +7,24 @@ function Home() {
     <>
       <section className="home_section">
         <div className="section_container">
-          <div className="section_text">
+          <div className="section_text_boas_vindas">
             <h1>Boas Vindas</h1>
             <p>
               <br />
               Olá, seja bem vinde ao Hello Celíaco, meu nome é
               <span className="green_text"> Tamires Cristina</span>, tenho 29
-              anos e sou de Diadema - SP. <br/>Se você está por aqui provavelmente
-              teve o diagnóstico recente da doença celíaca, ou está aprendendo
-              mais sobre, e o objetivo desse site é acolher quem teve o
-              diagnóstico da doença e passar algumas orientações iniciais que
-              possam ajudar no período de adaptação.
+              anos e sou de Diadema - SP. <br /> <br />
+              Se você está por aqui provavelmente teve o diagnóstico recente da
+              doença celíaca, ou está aprendendo mais sobre, e o objetivo desse
+              site é acolher quem teve o diagnóstico da doença e passar algumas
+              orientações iniciais que possam ajudar no período de adaptação.
             </p>
+          </div>
+          <div className="section_slider_container">
+            <h3>Entendendo melhor sobre o assunto</h3>
+            <Slider />
+          </div>
+          <div className="section_text">
             <h2>Quando eu me descobri celíaca?</h2>
             <p>
               Tive o diagnóstico da doença em{" "}
@@ -66,10 +72,6 @@ function Home() {
               foi a melhor coisa que eu fiz.
             </p>
           </div>
-        </div>
-        <div className="section_slider_container">
-          <h3>Entendendo melhor sobre o assunto</h3>
-          <Slider />
         </div>
       </section>
     </>
