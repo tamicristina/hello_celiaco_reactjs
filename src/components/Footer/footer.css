@@ -5,6 +5,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 100vw;
   bottom: 0px;
+  margin-top: 50px;
+  position: fixed;
 }
