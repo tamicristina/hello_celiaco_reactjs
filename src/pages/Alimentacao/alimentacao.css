@@ -1,0 +1,33 @@
+.alimentacao_section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+}
+.alimentacao_section h1,h2 {
+  color: #03989e;
+  text-align: inherit;
+  font-size: 26px;
+  
+}
+
+
+.alimentacao_section p {
+  font-size: 17px;
+  color: #555353;
+}
+
+.section_alimentacao_text{
+  margin: 5% 0;
+}
+
+.section_restaurantes{
+  display: flex;
+  flex-direction: column;
+  background-image: url('../../src/assets/alimentacao_image.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 400px;
+  height: 50vh;
+  width: 65vw;
+}

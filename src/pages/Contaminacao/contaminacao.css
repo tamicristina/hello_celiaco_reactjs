@@ -4,27 +4,50 @@
   align-items: center;
   height: 80vh;
   margin-top: 5%;
+
 }
+
+.contaminacao_section h1 {
+  color:#03989e;
+ }
 
 .contaminacao_div_container {
   display: flex;
   width: 80vw;
   border: 1.8px dashed #03989e;
   height: 60vh;
+
 }
 
 .contaminacao_div_text {
   display: flex;
   width: 50%;
   flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
   margin: 10px 0 0 15px;
 }
 
-.contaminacao_div_text h1 {
- color:#03989e;
-}
+
 
 .contaminacao_div_text p {
-  margin-top:10px
+  margin-top:10px;
+  font-size: 17px;
+  color: #555353;
+ }
+ .contaminacao_image{
+  width: 300px;
+ }
+
+ .contaminacao_div_video{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 50%;
+
+ }
+ .contaminacao_video{
+  width:90%;
+  height:400px
  }

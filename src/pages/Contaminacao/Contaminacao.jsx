@@ -22,8 +22,18 @@ function Contaminacao() {
             mesmo recipiente frita-se pastel e batatas, certamente partículas de
             glúten vão aderir as batatas causando danos ao celíaco.
           </p>
+          <img className="contaminacao_image" src="../../src/assets/section_contaminacao_image.svg"/>
         </div>
-        <div className="contaminacao_div_video"></div>
+        <div className="contaminacao_div_video">
+          <h1>Dicas sobre como evitar a contaminação cruzada:</h1>
+          <iframe className="contaminacao_video"
+            src="https://www.youtube.com/embed/XaUBvbjrBzo"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
       </div>
     </section>
   );

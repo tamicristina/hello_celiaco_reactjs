@@ -39,6 +39,12 @@
 
 }
 
+.section_text_boas_vindas p {
+  font-size: 17px;
+  color: #555353;
+
+}
+
 .section_text p {
   margin: 2px 0 0;
   font-size: 16.5px;
