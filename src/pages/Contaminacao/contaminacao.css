@@ -14,12 +14,14 @@
 .contaminacao_div_container {
   display: flex;
   width: 80vw;
+  height: 80vh;
   border: 1.8px dashed #03989e;
 
 }
 
 .contaminacao_div_text {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   width: 50%;
   height: 100%;
@@ -45,7 +47,7 @@
   padding-bottom: 5%;
  }
  .contaminacao_image{
-  width: 300px;
+  width: 48%;
   height: 100%;
  }
  .contaminacao_container_video{
