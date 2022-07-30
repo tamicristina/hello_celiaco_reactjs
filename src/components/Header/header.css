@@ -11,6 +11,13 @@
 
 .img_header_two {
   width: 210px;
-  height: 210px;
+  height: 180px;
 }
 
+@media (min-width: 320px) and (max-width: 768px) {
+  .img_header_two {
+   display: none;
+  }
+
+
+}

@@ -29,3 +29,15 @@ hr{
   border: 0;
   border-top: 2px solid #DDDEDD;
 }
+
+@media (min-width: 320px) and (max-width: 768px) {
+  .menu{
+    flex-wrap: wrap;
+  }
+
+  .item .link {
+   
+    margin:0 40px;
+  }
+
+}
