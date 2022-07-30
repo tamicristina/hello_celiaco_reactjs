@@ -7,7 +7,7 @@
 }
 
 .card_front {
-  background-color: #03989e;
+  background-color: #4fbcc2;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -61,10 +61,12 @@
 .card:hover .card_front {
   transform: rotateY(180deg);
   z-index: 0;
+  cursor: pointer;
 }
 .card:hover .card_back {
   transform: rotateY(0);
   z-index: 1;
+  cursor: pointer;
 }
 .card_image_container {
   width: 100%;

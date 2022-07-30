@@ -76,6 +76,26 @@ function Alimentacao() {
           />
         </div>
         <h2>3 - Padarias</h2>
+        <div className="container_pizzarias">
+        <CardFlip
+            image={"https://i.ibb.co/Cb8m1zB/praladebom.png"}
+            text={
+              " Padaria artesanal em SP, sem glúten, lactose e açucar refinado."
+            }
+            hrefGoogle={"https://g.page/PraLaDeBom?share"}
+            ancoraInsta={"https://www.instagram.com/praladebomsemgluten/"}
+          />
+          <CardFlip
+            image={"https://i.ibb.co/09YjrFC/vivaz.jpg"}
+            text={
+              " Uma Padaria Sem Glúten, Sem Lactose e Sem Refinados"
+            }
+            hrefGoogle={"https://g.page/vivazsemgluten?share"}
+            ancoraInsta={"https://www.instagram.com/vivazsemgluten/"}
+            site={'https://vivazsemgluten.com.br/'}
+            hrefSite={'https://vivazsemgluten.com.br/'}
+          />
+          </div>
       </div>
     </section>
   );
