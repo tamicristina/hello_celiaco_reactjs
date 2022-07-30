@@ -21,11 +21,13 @@
 
 .contaminacao_div_text {
   display: flex;
-  width: 50%;
-  flex-direction: column;
-  justify-content: space-evenly;
   align-items: center;
-  margin: 10px 0 0 15px;
+  width: 50%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0 40px 15px;
 }
 
 

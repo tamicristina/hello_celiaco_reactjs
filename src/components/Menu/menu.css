@@ -19,25 +19,23 @@
   padding: 14px 16px;
   text-decoration: none;
   color: #03989e;
-  margin:0 73px;
+  margin: 0 73px;
 }
 
-hr{
+hr {
   width: 85%;
   margin: 0 auto;
   height: 1px;
   border: 0;
-  border-top: 2px solid #DDDEDD;
+  border-top: 2px solid #dddedd;
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
-  .menu{
+  .menu {
     flex-wrap: wrap;
   }
 
   .item .link {
-   
-    margin:0 40px;
+    margin: 0 40px;
   }
-
 }
