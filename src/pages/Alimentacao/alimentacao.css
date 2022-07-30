@@ -24,7 +24,7 @@
 .section_restaurantes{
   display: flex;
   flex-direction: column;
-  background-image: url('../../src/assets/alimentacao_image.png');
+  background-image: url('https://i.ibb.co/S5bzbX6/undraw-breakfast-psiw.png');
   background-repeat: no-repeat;
   background-position: right;
   background-size: 400px;
