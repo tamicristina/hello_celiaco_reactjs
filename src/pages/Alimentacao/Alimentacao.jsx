@@ -1,3 +1,4 @@
+import CardFlip from "../../components/CardFlip/CardFlip";
 import "./alimentacao.css";
 
 function Alimentacao() {
@@ -15,6 +16,7 @@ function Alimentacao() {
       </div>
         <div className="section_restaurantes">
         <h2>1 - Pizzarias</h2>
+        <CardFlip/>
         </div>
     </section>
   );

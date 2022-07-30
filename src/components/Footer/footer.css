@@ -1,10 +1,29 @@
 .footer {
   background-color:  #03989e;;
   color:#FFF;
-  height: 80px;
+  height: 90px;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100vw;
   bottom: 0px;
+}
+
+.footer_empty{
+  flex: 1;
+}
+
+.footer_text{
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+
+.footer_redes{
+  flex: 1;
+}
+.footer_redes img{
+  flex: 1;
+  width: 40px;
+  margin: 0 30px;
 }
