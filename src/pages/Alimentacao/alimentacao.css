@@ -3,12 +3,13 @@
   align-items: center;
   flex-direction: column;
   width: 100vw;
+
 }
 .alimentacao_section h1,h2 {
   color: #03989e;
   text-align: inherit;
   font-size: 26px;
-  
+ 
 }
 
 
@@ -28,6 +29,10 @@
   background-repeat: no-repeat;
   background-position: right;
   background-size: 400px;
-  height: 50vh;
   width: 65vw;
+  margin-bottom: 20px;
+}
+
+.container_pizzarias{
+  display: flex;
 }

@@ -12,9 +12,7 @@ function Menu(){
     <li className='item'>
       <Link className="link" to="/contaminacao">Contaminação Cruzada</Link>
     </li>
-    <li className='item'>
-      <Link className="link" to="/apoio">Rede de apoio</Link>
-    </li>
+ 
     <li className='item'>
       <Link className="link" to="/alimentacao">Alimentação Segura</Link>
     </li>
