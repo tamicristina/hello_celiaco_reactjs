@@ -69,3 +69,9 @@
   width:90%;
   height:400px
  }
+
+ @media (min-width: 320px) and (max-width: 768px) {
+  .contaminacao_image {
+   display: none;
+  }
+}
