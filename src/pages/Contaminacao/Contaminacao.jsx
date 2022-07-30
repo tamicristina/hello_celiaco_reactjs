@@ -28,6 +28,7 @@ function Contaminacao() {
         </div>
         <div className="contaminacao_div_video">
           <h1>Dicas sobre como evitar a contaminação cruzada:</h1>
+          <span className="contaminacao_container_video">
           <iframe className="contaminacao_video"
             src="https://www.youtube.com/embed/XaUBvbjrBzo"
             title="YouTube video player"
@@ -35,6 +36,7 @@ function Contaminacao() {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
+          </span>
         </div>
       </div>
     </section>
