@@ -62,14 +62,7 @@ function Home() {
               foram poucas as pessoas que se interessaram em saber mais a
               respeito da doença e tentar entende-la pra tentar fazer eu me
               sentir melhor de alguma forma…
-              <br /> <br />O conselho que eu deixo pra vocês é, não se deixem
-              abalar por pessoas ignorantes que não se dão nem ao trabalho de
-              pesquisar e entender sobre a doença antes de criticar. Hoje eu
-              ainda sofro com o fato de não poder sair e comer livremente em
-              qualquer lugar, e ainda estou encontrando formas de me adaptar com
-              isso, mas de uma coisa eu falo com toda a certeza, estou bem mais
-              saudável do que a alguns anos atrás e tirar o glúten da minha vida
-              foi a melhor coisa que eu fiz.
+              
             </p>
           </div>
         </div>
