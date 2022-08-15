@@ -27,7 +27,7 @@ hr {
   margin: 0 auto;
   height: 1px;
   border: 0;
-  border-top: 2px solid #dddedd;
+  border-top: 1.8px solid #dddedd;
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
