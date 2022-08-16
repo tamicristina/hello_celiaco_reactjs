@@ -3,6 +3,7 @@ import "./contaminacao.css";
 function Contaminacao() {
   return (
     <section className="contaminacao_section">
+      <div className="contaminacao_card">
       <div className="contaminacao_div_container">
         <div className="contaminacao_div_text">
           <div className="contaminacao_div_text_paragrado">
@@ -44,6 +45,7 @@ function Contaminacao() {
             allowfullscreen
           ></iframe>
         </div>
+      </div>
       </div>
     </section>
   );

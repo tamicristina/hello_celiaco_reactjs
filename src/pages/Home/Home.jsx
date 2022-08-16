@@ -6,6 +6,7 @@ function Home() {
   return (
     <>
       <section className="home_section">
+        <div className="section_card">
         <div className="section_container">
           <div className="section_text_boas_vindas">
             <h1>Boas Vindas</h1>
@@ -65,6 +66,7 @@ function Home() {
               
             </p>
           </div>
+        </div>
         </div>
       </section>
     </>
