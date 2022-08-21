@@ -24,3 +24,7 @@
   margin-top: 10px;
   font-size: 17px;
 }
+
+.cards_apoio_container{
+  display: flex;
+}

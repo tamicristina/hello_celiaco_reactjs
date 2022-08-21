@@ -6,7 +6,7 @@ function Header() {
       <div className="header_container">
       <img
         className="img_header"
-        src="https://i.ibb.co/F0QQYzR/Logomarca-confeitaria-3.png"
+        src="../../../src/assets/Logomarca confeitaria.png"
       />
       <img
         className="img_header_two"

@@ -1,0 +1,16 @@
+.card_apoio{
+  background-color:white ;
+  width: 250px;
+  height: 290px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 30px;
+  border: solid 1px rgba(204, 204, 204, 0.75);
+
+}
+
+.card_apoio_image{
+  width: 100%;
+  height: 50%
+}
