@@ -6,11 +6,11 @@ function Header() {
       <div className="header_container">
       <img
         className="img_header"
-        src="../../../src/assets/Logomarca confeitaria.png"
+        src="https://i.ibb.co/rtFdSpP/Logomarca-confeitaria.png"
       />
       <img
         className="img_header_two"
-        src="https://i.ibb.co/8BTD8BF/undraw-workout-gcgu.png"
+        src="https://i.ibb.co/qFdHYNy/logo-sem-fundo.png"
       />
       </div>
     </header>
