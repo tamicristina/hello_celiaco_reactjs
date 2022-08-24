@@ -20,7 +20,7 @@ function Alimentacao() {
       </div>
       <div className="section_restaurantes">
         <h2>1 - Pizzarias / Massas</h2>
-        <div className="container_pizzarias">
+        <div className="container_card">
           <CardFlip
             image={"https://i.ibb.co/ThWj1zg/pizza-for-fun.jpg"}
             text={
@@ -29,6 +29,7 @@ function Alimentacao() {
             hrefGoogle={"https://g.page/pizzaforfunvilaclementino?share"}
             site={"https://pizzaforfun.com.br/"}
             hrefSite={"https://pizzaforfun.com.br/"}
+            ancoraInsta={'https://www.instagram.com/pizzaforfunoficial/'}
           />
           <CardFlip
             image={"https://i.ibb.co/ts7LKh1/jolly-pizza-logo-1.png"}
@@ -38,6 +39,7 @@ function Alimentacao() {
             hrefGoogle={"https://g.page/Jolly-Pizzaria?share"}
             site={"https://www.jollypizzaria.com.br/"}
             hrefSite={"https://www.jollypizzaria.com.br/"}
+            ancoraInsta={'https://www.instagram.com/jollypizzaria/'}
           />
           <CardFlip
             image={"https://i.ibb.co/wwLLp7n/Logotipo-Le-Vita-Header181025.png"}
@@ -51,10 +53,10 @@ function Alimentacao() {
           />
         </div>
         <h2>2 - Confeitarias</h2>
-        <div className="container_pizzarias">
+        <div className="container_card">
           <CardFlip
             image={
-              "https://i.ibb.co/wMYHqTX/1619461497724711728155572563-1080p.png"
+              "https://i.ibb.co/BsPVyjB/isabela-Branca.png"
             }
             text={
               "Confeitaria francesa com brownies e alfajores recheados, além de bebidas quentes servidas em copos com a borda dourada."
@@ -76,7 +78,7 @@ function Alimentacao() {
           />
         </div>
         <h2>3 - Padarias</h2>
-        <div className="container_pizzarias">
+        <div className="container_card">
         <CardFlip
             image={"https://i.ibb.co/Cb8m1zB/praladebom.png"}
             text={

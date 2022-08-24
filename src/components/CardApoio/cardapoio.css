@@ -1,5 +1,5 @@
-.card_apoio{
-  background-color:white ;
+.card_apoio {
+  background-color: white;
   width: 250px;
   height: 290px;
   display: flex;
@@ -7,10 +7,30 @@
   align-items: center;
   margin: 0 30px;
   border: solid 1px rgba(204, 204, 204, 0.75);
+}
+
+.card_apoio_image {
+  width: 100%;
+  height: 50%;
+}
+
+.card_apoio_title {
+  margin-top: 20px;
+}
+
+.ancora_container {
+  display: flex;
+  text-decoration: none;
+  color:#FFB665;
+  margin-top: 20px;
 
 }
 
-.card_apoio_image{
-  width: 100%;
-  height: 50%
+.ancora_arrow_container {
+  display: flex;
+  padding-top: 7.5px;
+}
+
+.ancora_text {
+  padding:0 10px;
 }

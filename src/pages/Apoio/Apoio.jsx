@@ -5,17 +5,20 @@ const apoioDados = [
   {
     id:1,
     name: 'Doença Celíaca - Brasil',
-    img: '../../../src/assets/doenca_celiaca_brasil.jpeg'
+    img: '../../../src/assets/doenca_celiaca_brasil.jpeg',
+    link: 'https://www.facebook.com/groups/177575452259581'
   },
   {
     id:2,
     name: 'Celíacos pelo mundo',
-    img: '../../../src/assets/celiacos_pelo_mundo.jpeg'
+    img: '../../../src/assets/celiacos_pelo_mundo.jpeg',
+    link: 'https://www.facebook.com/celiacospelomundo'
   },
   {
     id:3,
     name: 'Celíacos de São Paulo',
-    img: '../../../src/assets/celiacos_sao_paulo.jpeg'
+    img: '../../../src/assets/celiacos_sao_paulo.jpeg',
+    link: 'https://www.facebook.com/groups/169570860422592'
   }
 
 ]
@@ -34,7 +37,7 @@ function Apoio (){
   <div className="cards_apoio_container">
     {apoioDados.map((item)=>{
       return(
-        <CardApoio key={item.id} image={item.img} text={item.name}/>
+        <CardApoio key={item.id} image={item.img} text={item.name} link={item.link}/>
 
       )
     })}

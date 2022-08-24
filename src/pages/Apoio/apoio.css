@@ -23,8 +23,10 @@
 .apoio_text_container p{
   margin-top: 10px;
   font-size: 17px;
+  color: #555353;
 }
 
 .cards_apoio_container{
   display: flex;
+  margin-top: 5%;
 }
