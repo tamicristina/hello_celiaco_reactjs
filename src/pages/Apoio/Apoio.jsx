@@ -5,19 +5,19 @@ const apoioDados = [
   {
     id:1,
     name: 'Doença Celíaca - Brasil',
-    img: '../../../src/assets/doenca_celiaca_brasil.jpeg',
+    img: 'https://i.ibb.co/1d10yJH/doenca-celiaca-brasil.jpg',
     link: 'https://www.facebook.com/groups/177575452259581'
   },
   {
     id:2,
     name: 'Celíacos pelo mundo',
-    img: '../../../src/assets/celiacos_pelo_mundo.jpeg',
+    img: 'https://i.ibb.co/rx4GBX2/celiacos-pelo-mundo.jpg',
     link: 'https://www.facebook.com/celiacospelomundo'
   },
   {
     id:3,
     name: 'Celíacos de São Paulo',
-    img: '../../../src/assets/celiacos_sao_paulo.jpeg',
+    img: 'https://i.ibb.co/1RDpczG/celiacos-sao-paulo.jpg',
     link: 'https://www.facebook.com/groups/169570860422592'
   }
 
