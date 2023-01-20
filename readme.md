@@ -1,7 +1,7 @@
 # Hello Celíaco
 
 <div>
-<img width="280px" src="https://user-images.githubusercontent.com/79336444/213589586-cd4f42c3-3a51-49cb-8eaf-ae7bb581cdda.gif" />
+<img src="https://user-images.githubusercontent.com/79336444/213590944-4e91b2b2-aab6-4f80-b155-d44d08595406.gif" />
 
 </div>
 
